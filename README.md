@@ -246,7 +246,7 @@ git pull                                            # Fetch and merge changes fr
 
 ---
 
-## 🔟0️⃣ Additional Tips & Best Practices
+## 2️⃣0️⃣ Additional Tips & Best Practices
 
 - Use descriptive, imperative commit messages for clarity.  
 - Commit often with small logical changes.  
